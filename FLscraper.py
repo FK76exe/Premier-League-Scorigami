@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup as soup
 import bs4
 import re
 
-f = open("EPLresults.csv","a")
+f = open("EPLresults.csv","a+")
 
 for year in range(1992,1995):
     for week in range(1,43):
