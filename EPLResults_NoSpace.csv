@@ -1,3 +1,4 @@
+Year,Week,HomeTeam,AwayTeam,HomeScore,AwayScore
 1992/1993,1,ArsenalFC,NorwichCity,2,4
 1992/1993,1,ChelseaFC,OldhamAthletic,1,1
 1992/1993,1,CoventryCity,MiddlesbroughFC,2,1
@@ -17,7 +18,7 @@
 1992/1993,2,MiddlesbroughFC,ManchesterCity,2,0
 1992/1993,2,NorwichCity,ChelseaFC,2,1
 1992/1993,2,OldhamAthletic,CrystalPalace,1,1
-1992/1993,2,ParkRangers,SouthamptonFC,3,1
+1992/1993,2,QueensParkRangers,SouthamptonFC,3,1
 1992/1993,2,SheffieldWednesday,NottinghamForest,2,0
 1992/1993,2,TottenhamHotspur,CoventryCity,0,2
 1992/1993,3,AstonVilla,SouthamptonFC,1,1
@@ -26,7 +27,7 @@
 1992/1993,3,MiddlesbroughFC,LeedsUnited,4,1
 1992/1993,3,NorwichCity,EvertonFC,1,1
 1992/1993,3,OldhamAthletic,NottinghamForest,5,3
-1992/1993,3,ParkRangers,SheffieldUnited,3,2
+1992/1993,3,QueensParkRangers,SheffieldUnited,3,2
 1992/1993,3,SheffieldWednesday,ChelseaFC,3,3
 1992/1993,3,TottenhamHotspur,CrystalPalace,2,2
 1992/1993,3,WimbledonFC,CoventryCity,1,2
@@ -60,7 +61,7 @@
 1992/1993,6,WimbledonFC,ManchesterCity,0,1
 1992/1993,6,AstonVilla,ChelseaFC,1,3
 1992/1993,6,ManchesterUnited,CrystalPalace,1,0
-1992/1993,6,ParkRangers,ArsenalFC,0,0
+1992/1993,6,QueensParkRangers,ArsenalFC,0,0
 1992/1993,6,SheffieldWednesday,CoventryCity,1,2
 1992/1993,6,TottenhamHotspur,SheffieldUnited,2,0
 1992/1993,6,BlackburnRovers,EvertonFC,2,3
@@ -70,7 +71,7 @@
 1992/1993,7,MiddlesbroughFC,SheffieldUnited,2,0
 1992/1993,7,NorwichCity,SouthamptonFC,1,0
 1992/1993,7,OldhamAthletic,CoventryCity,0,1
-1992/1993,7,ParkRangers,IpswichTown,0,0
+1992/1993,7,QueensParkRangers,IpswichTown,0,0
 1992/1993,7,SheffieldWednesday,ManchesterCity,0,3
 1992/1993,7,TottenhamHotspur,EvertonFC,2,1
 1992/1993,7,WimbledonFC,ArsenalFC,3,2
@@ -90,7 +91,7 @@
 1992/1993,9,EvertonFC,CrystalPalace,0,2
 1992/1993,9,NorwichCity,SheffieldWednesday,1,0
 1992/1993,9,OldhamAthletic,IpswichTown,4,2
-1992/1993,9,ParkRangers,MiddlesbroughFC,3,3
+1992/1993,9,QueensParkRangers,MiddlesbroughFC,3,3
 1992/1993,9,SheffieldUnited,ArsenalFC,1,1
 1992/1993,9,SouthamptonFC,LeedsUnited,1,1
 1992/1993,9,TottenhamHotspur,ManchesterUnited,1,1
@@ -115,7 +116,7 @@
 1992/1993,11,LiverpoolFC,SheffieldWednesday,1,0
 1992/1993,11,ManchesterCity,NottinghamForest,2,2
 1992/1993,11,MiddlesbroughFC,ManchesterUnited,1,1
-1992/1993,11,ParkRangers,TottenhamHotspur,4,1
+1992/1993,11,QueensParkRangers,TottenhamHotspur,4,1
 1992/1993,11,SheffieldUnited,SouthamptonFC,2,0
 1992/1993,11,WimbledonFC,AstonVilla,2,3
 1992/1993,11,OldhamAthletic,EvertonFC,1,0
@@ -137,7 +138,7 @@
 1992/1993,13,ManchesterCity,SouthamptonFC,1,0
 1992/1993,13,MiddlesbroughFC,SheffieldWednesday,1,1
 1992/1993,13,OldhamAthletic,AstonVilla,1,1
-1992/1993,13,ParkRangers,LeedsUnited,2,1
+1992/1993,13,QueensParkRangers,LeedsUnited,2,1
 1992/1993,13,SheffieldUnited,NottinghamForest,0,0
 1992/1993,13,LiverpoolFC,NorwichCity,4,1
 1992/1993,13,WimbledonFC,TottenhamHotspur,1,1
@@ -173,7 +174,7 @@
 1992/1993,16,SheffieldWednesday,IpswichTown,1,1
 1992/1993,16,TottenhamHotspur,AstonVilla,0,0
 1992/1993,16,SouthamptonFC,BlackburnRovers,1,1
-1992/1993,16,ParkRangers,LiverpoolFC,0,1
+1992/1993,16,QueensParkRangers,LiverpoolFC,0,1
 1992/1993,17,ArsenalFC,ManchesterUnited,0,1
 1992/1993,17,AstonVilla,NorwichCity,2,3
 1992/1993,17,BlackburnRovers,QueensParkRangers,1,0
@@ -190,7 +191,7 @@
 1992/1993,18,LeedsUnited,NottinghamForest,1,4
 1992/1993,18,MiddlesbroughFC,BlackburnRovers,3,2
 1992/1993,18,NorwichCity,WimbledonFC,2,1
-1992/1993,18,ParkRangers,OldhamAthletic,3,2
+1992/1993,18,QueensParkRangers,OldhamAthletic,3,2
 1992/1993,18,SheffieldWednesday,AstonVilla,1,2
 1992/1993,18,SouthamptonFC,ArsenalFC,2,0
 1992/1993,18,TottenhamHotspur,ChelseaFC,1,2
@@ -201,7 +202,7 @@
 1992/1993,19,IpswichTown,ManchesterCity,3,1
 1992/1993,19,LeedsUnited,SheffieldWednesday,3,1
 1992/1993,19,ManchesterUnited,NorwichCity,1,0
-1992/1993,19,ParkRangers,CrystalPalace,1,3
+1992/1993,19,QueensParkRangers,CrystalPalace,1,3
 1992/1993,19,SheffieldUnited,EvertonFC,1,0
 1992/1993,19,SouthamptonFC,CoventryCity,2,2
 1992/1993,19,TottenhamHotspur,ArsenalFC,1,0
@@ -235,7 +236,7 @@
 1992/1993,22,LiverpoolFC,ManchesterCity,1,1
 1992/1993,22,ManchesterUnited,CoventryCity,5,0
 1992/1993,22,MiddlesbroughFC,CrystalPalace,0,1
-1992/1993,22,ParkRangers,EvertonFC,4,2
+1992/1993,22,QueensParkRangers,EvertonFC,4,2
 1992/1993,22,SouthamptonFC,SheffieldWednesday,1,2
 1992/1993,22,TottenhamHotspur,NottinghamForest,2,1
 1992/1993,22,WimbledonFC,ChelseaFC,0,0
@@ -261,7 +262,7 @@
 1992/1993,24,TottenhamHotspur,SheffieldWednesday,0,2
 1992/1993,24,WimbledonFC,LiverpoolFC,2,0
 1992/1993,24,AstonVilla,MiddlesbroughFC,5,1
-1992/1993,24,ParkRangers,ManchesterUnited,1,3
+1992/1993,24,QueensParkRangers,ManchesterUnited,1,3
 1992/1993,25,BlackburnRovers,CoventryCity,2,5
 1992/1993,25,MiddlesbroughFC,SouthamptonFC,2,1
 1992/1993,25,OldhamAthletic,ManchesterCity,0,1
@@ -269,7 +270,7 @@
 1992/1993,25,AstonVilla,SheffieldUnited,3,1
 1992/1993,25,ManchesterUnited,NottinghamForest,2,0
 1992/1993,25,NorwichCity,CrystalPalace,4,2
-1992/1993,25,ParkRangers,ChelseaFC,1,1
+1992/1993,25,QueensParkRangers,ChelseaFC,1,1
 1992/1993,25,TottenhamHotspur,IpswichTown,0,2
 1992/1993,25,LiverpoolFC,LeedsUnited,2,0
 1992/1993,25,SheffieldWednesday,ArsenalFC,1,0
@@ -290,7 +291,7 @@
 1992/1993,27,ManchesterUnited,SheffieldUnited,2,1
 1992/1993,27,MiddlesbroughFC,CoventryCity,0,2
 1992/1993,27,OldhamAthletic,ChelseaFC,3,1
-1992/1993,27,ParkRangers,ManchesterCity,1,1
+1992/1993,27,QueensParkRangers,ManchesterCity,1,1
 1992/1993,27,SheffieldWednesday,EvertonFC,3,1
 1992/1993,27,WimbledonFC,LeedsUnited,1,0
 1992/1993,27,TottenhamHotspur,SouthamptonFC,4,2
@@ -323,7 +324,7 @@
 1992/1993,30,MiddlesbroughFC,NottinghamForest,1,2
 1992/1993,30,NorwichCity,ManchesterCity,2,1
 1992/1993,30,OldhamAthletic,ArsenalFC,0,1
-1992/1993,30,ParkRangers,CoventryCity,2,0
+1992/1993,30,QueensParkRangers,CoventryCity,2,0
 1992/1993,30,SheffieldWednesday,CrystalPalace,2,1
 1992/1993,30,TottenhamHotspur,LeedsUnited,4,0
 1992/1993,30,WimbledonFC,SheffieldUnited,2,0
@@ -351,7 +352,7 @@
 1992/1993,32,ManchesterCity,CoventryCity,1,0
 1992/1993,32,SheffieldUnited,NorwichCity,0,1
 1992/1993,33,LiverpoolFC,ManchesterUnited,1,2
-1992/1993,33,ParkRangers,NorwichCity,3,1
+1992/1993,33,QueensParkRangers,NorwichCity,3,1
 1992/1993,33,WimbledonFC,SouthamptonFC,1,2
 1992/1993,33,CoventryCity,EvertonFC,0,1
 1992/1993,33,IpswichTown,ChelseaFC,1,1
@@ -366,7 +367,7 @@
 1992/1993,34,LeedsUnited,ManchesterCity,1,0
 1992/1993,34,MiddlesbroughFC,LiverpoolFC,1,2
 1992/1993,34,NorwichCity,OldhamAthletic,1,0
-1992/1993,34,ParkRangers,WimbledonFC,1,2
+1992/1993,34,QueensParkRangers,WimbledonFC,1,2
 1992/1993,34,SouthamptonFC,IpswichTown,4,3
 1992/1993,34,ManchesterUnited,AstonVilla,1,1
 1992/1993,34,CrystalPalace,ChelseaFC,1,1
@@ -390,7 +391,7 @@
 1992/1993,36,LeedsUnited,ChelseaFC,1,1
 1992/1993,36,ManchesterUnited,ArsenalFC,0,0
 1992/1993,36,NorwichCity,AstonVilla,1,0
-1992/1993,36,ParkRangers,BlackburnRovers,0,3
+1992/1993,36,QueensParkRangers,BlackburnRovers,0,3
 1992/1993,36,SheffieldWednesday,WimbledonFC,1,1
 1992/1993,36,SouthamptonFC,NottinghamForest,1,2
 1992/1993,36,TottenhamHotspur,ManchesterCity,3,1
@@ -414,7 +415,7 @@
 1992/1993,38,LiverpoolFC,OldhamAthletic,1,0
 1992/1993,38,ManchesterUnited,SheffieldWednesday,2,1
 1992/1993,38,MiddlesbroughFC,EvertonFC,1,2
-1992/1993,38,ParkRangers,NottinghamForest,4,3
+1992/1993,38,QueensParkRangers,NottinghamForest,4,3
 1992/1993,38,SouthamptonFC,ChelseaFC,1,0
 1992/1993,39,ArsenalFC,AstonVilla,0,1
 1992/1993,39,BlackburnRovers,IpswichTown,2,1
@@ -437,7 +438,7 @@
 1992/1993,40,WimbledonFC,NottinghamForest,1,0
 1992/1993,40,AstonVilla,ManchesterCity,3,1
 1992/1993,40,IpswichTown,NorwichCity,3,1
-1992/1993,40,ParkRangers,SheffieldWednesday,3,1
+1992/1993,40,QueensParkRangers,SheffieldWednesday,3,1
 1992/1993,41,ChelseaFC,CoventryCity,2,1
 1992/1993,41,CrystalPalace,IpswichTown,3,1
 1992/1993,41,EvertonFC,ArsenalFC,0,0
@@ -458,7 +459,7 @@
 1992/1993,42,MiddlesbroughFC,NorwichCity,3,3
 1992/1993,42,OldhamAthletic,SouthamptonFC,4,3
 1992/1993,42,SheffieldUnited,ChelseaFC,4,2
-1992/1993,42,ParkRangers,AstonVilla,2,1
+1992/1993,42,QueensParkRangers,AstonVilla,2,1
 1992/1993,42,WimbledonFC,ManchesterUnited,1,2
 1993/1994,1,SheffieldUnited,SwindonTown,3,1
 1993/1994,1,ArsenalFC,CoventryCity,0,3
@@ -469,7 +470,7 @@
 1993/1994,1,LiverpoolFC,SheffieldWednesday,2,0
 1993/1994,1,ChelseaFC,BlackburnRovers,1,2
 1993/1994,1,AstonVilla,QueensParkRangers,4,1
-1993/1994,1,HamUnited,WimbledonFC,0,2
+1993/1994,1,WestHamUnited,WimbledonFC,0,2
 1993/1994,1,NorwichCity,ManchesterUnited,0,2
 1993/1994,2,TottenhamHotspur,ArsenalFC,0,1
 1993/1994,2,LeedsUnited,WestHamUnited,1,0
@@ -479,7 +480,7 @@
 1993/1994,2,ManchesterUnited,SheffieldUnited,3,0
 1993/1994,2,BlackburnRovers,NorwichCity,2,3
 1993/1994,2,SwindonTown,OldhamAthletic,0,1
-1993/1994,2,ParkRangers,LiverpoolFC,1,3
+1993/1994,2,QueensParkRangers,LiverpoolFC,1,3
 1993/1994,2,CoventryCity,NewcastleUnited,2,1
 1993/1994,2,SheffieldWednesday,AstonVilla,0,0
 1993/1994,3,LeedsUnited,NorwichCity,0,4
@@ -491,7 +492,7 @@
 1993/1994,3,EvertonFC,SheffieldUnited,4,2
 1993/1994,3,CoventryCity,WestHamUnited,1,1
 1993/1994,3,BlackburnRovers,OldhamAthletic,1,0
-1993/1994,3,ParkRangers,SouthamptonFC,2,1
+1993/1994,3,QueensParkRangers,SouthamptonFC,2,1
 1993/1994,3,SwindonTown,LiverpoolFC,0,5
 1993/1994,4,AstonVilla,ManchesterUnited,1,2
 1993/1994,4,OldhamAthletic,CoventryCity,3,3
@@ -500,13 +501,13 @@
 1993/1994,4,SheffieldUnited,WimbledonFC,2,1
 1993/1994,4,ChelseaFC,QueensParkRangers,2,0
 1993/1994,4,NewcastleUnited,EvertonFC,1,0
-1993/1994,4,HamUnited,SheffieldWednesday,2,0
+1993/1994,4,WestHamUnited,SheffieldWednesday,2,0
 1993/1994,4,NorwichCity,IpswichTown,1,0
 1993/1994,4,LiverpoolFC,TottenhamHotspur,1,2
 1993/1994,4,SouthamptonFC,SwindonTown,5,1
 1993/1994,5,ManchesterCity,CoventryCity,1,1
 1993/1994,5,LiverpoolFC,LeedsUnited,2,0
-1993/1994,5,HamUnited,QueensParkRangers,0,4
+1993/1994,5,WestHamUnited,QueensParkRangers,0,4
 1993/1994,5,SouthamptonFC,ManchesterUnited,1,3
 1993/1994,5,SheffieldUnited,IpswichTown,1,1
 1993/1994,5,NorwichCity,SwindonTown,0,0
@@ -522,12 +523,12 @@
 1993/1994,6,BlackburnRovers,ArsenalFC,1,1
 1993/1994,6,SwindonTown,ManchesterCity,1,3
 1993/1994,6,SheffieldWednesday,NorwichCity,3,3
-1993/1994,6,ParkRangers,SheffieldUnited,2,1
+1993/1994,6,QueensParkRangers,SheffieldUnited,2,1
 1993/1994,6,TottenhamHotspur,ChelseaFC,1,1
 1993/1994,6,ManchesterUnited,WestHamUnited,3,0
 1993/1994,6,CoventryCity,LiverpoolFC,1,0
 1993/1994,7,NorwichCity,WimbledonFC,0,1
-1993/1994,7,HamUnited,SwindonTown,0,0
+1993/1994,7,WestHamUnited,SwindonTown,0,0
 1993/1994,7,SouthamptonFC,LeedsUnited,0,2
 1993/1994,7,OldhamAthletic,EvertonFC,0,1
 1993/1994,7,ManchesterCity,QueensParkRangers,3,0
@@ -545,7 +546,7 @@
 1993/1994,8,BlackburnRovers,WestHamUnited,0,2
 1993/1994,8,EvertonFC,LiverpoolFC,2,0
 1993/1994,8,IpswichTown,AstonVilla,1,2
-1993/1994,8,ParkRangers,NorwichCity,2,2
+1993/1994,8,QueensParkRangers,NorwichCity,2,2
 1993/1994,8,ManchesterUnited,ArsenalFC,1,0
 1993/1994,8,WimbledonFC,ManchesterCity,1,0
 1993/1994,9,EvertonFC,NorwichCity,1,5
@@ -560,8 +561,8 @@
 1993/1994,9,IpswichTown,TottenhamHotspur,2,2
 1993/1994,9,WimbledonFC,QueensParkRangers,1,1
 1993/1994,10,SwindonTown,BlackburnRovers,1,3
-1993/1994,10,ParkRangers,IpswichTown,3,0
-1993/1994,10,HamUnited,ChelseaFC,1,0
+1993/1994,10,QueensParkRangers,IpswichTown,3,0
+1993/1994,10,WestHamUnited,ChelseaFC,1,0
 1993/1994,10,AstonVilla,NewcastleUnited,0,2
 1993/1994,10,NorwichCity,CoventryCity,1,0
 1993/1994,10,LiverpoolFC,ArsenalFC,0,0
@@ -571,7 +572,7 @@
 1993/1994,10,TottenhamHotspur,EvertonFC,3,2
 1993/1994,10,ManchesterCity,OldhamAthletic,1,1
 1993/1994,11,ManchesterUnited,TottenhamHotspur,2,1
-1993/1994,11,HamUnited,AstonVilla,0,0
+1993/1994,11,WestHamUnited,AstonVilla,0,0
 1993/1994,11,SwindonTown,EvertonFC,1,1
 1993/1994,11,NewcastleUnited,QueensParkRangers,1,2
 1993/1994,11,LiverpoolFC,OldhamAthletic,2,1
@@ -581,7 +582,7 @@
 1993/1994,11,SheffieldWednesday,WimbledonFC,2,2
 1993/1994,11,IpswichTown,LeedsUnited,0,0
 1993/1994,11,BlackburnRovers,SheffieldUnited,0,0
-1993/1994,12,ParkRangers,CoventryCity,5,1
+1993/1994,12,QueensParkRangers,CoventryCity,5,1
 1993/1994,12,TottenhamHotspur,SwindonTown,1,1
 1993/1994,12,SheffieldUnited,SheffieldWednesday,1,1
 1993/1994,12,NorwichCity,WestHamUnited,0,0
@@ -602,9 +603,9 @@
 1993/1994,13,ArsenalFC,NorwichCity,0,0
 1993/1994,13,ManchesterUnited,QueensParkRangers,2,1
 1993/1994,13,CoventryCity,SheffieldUnited,0,0
-1993/1994,13,HamUnited,ManchesterCity,3,1
+1993/1994,13,WestHamUnited,ManchesterCity,3,1
 1993/1994,14,SheffieldUnited,NorwichCity,1,2
-1993/1994,14,ParkRangers,BlackburnRovers,1,0
+1993/1994,14,QueensParkRangers,BlackburnRovers,1,0
 1993/1994,14,LiverpoolFC,WestHamUnited,2,0
 1993/1994,14,ArsenalFC,AstonVilla,1,2
 1993/1994,14,SouthamptonFC,TottenhamHotspur,1,0
@@ -614,7 +615,7 @@
 1993/1994,14,WimbledonFC,SwindonTown,3,0
 1993/1994,14,ManchesterCity,ManchesterUnited,2,3
 1993/1994,14,OldhamAthletic,NewcastleUnited,1,3
-1993/1994,15,HamUnited,OldhamAthletic,2,0
+1993/1994,15,WestHamUnited,OldhamAthletic,2,0
 1993/1994,15,SwindonTown,IpswichTown,2,2
 1993/1994,15,ChelseaFC,ArsenalFC,0,2
 1993/1994,15,TottenhamHotspur,LeedsUnited,1,1
@@ -629,7 +630,7 @@
 1993/1994,16,EvertonFC,LeedsUnited,1,1
 1993/1994,16,BlackburnRovers,CoventryCity,2,1
 1993/1994,16,ManchesterUnited,IpswichTown,0,0
-1993/1994,16,HamUnited,ArsenalFC,0,0
+1993/1994,16,WestHamUnited,ArsenalFC,0,0
 1993/1994,16,TottenhamHotspur,WimbledonFC,1,1
 1993/1994,16,SwindonTown,QueensParkRangers,1,0
 1993/1994,16,NewcastleUnited,SheffieldUnited,4,0
@@ -638,7 +639,7 @@
 1993/1994,16,NorwichCity,LiverpoolFC,2,2
 1993/1994,17,SheffieldUnited,ChelseaFC,1,0
 1993/1994,17,WimbledonFC,EvertonFC,1,1
-1993/1994,17,ParkRangers,TottenhamHotspur,1,1
+1993/1994,17,QueensParkRangers,TottenhamHotspur,1,1
 1993/1994,17,ArsenalFC,NewcastleUnited,2,1
 1993/1994,17,ManchesterCity,SheffieldWednesday,1,3
 1993/1994,17,LeedsUnited,SwindonTown,3,0
@@ -648,7 +649,7 @@
 1993/1994,17,LiverpoolFC,AstonVilla,2,1
 1993/1994,17,SouthamptonFC,WestHamUnited,0,2
 1993/1994,18,CoventryCity,ArsenalFC,1,0
-1993/1994,18,ParkRangers,AstonVilla,2,2
+1993/1994,18,QueensParkRangers,AstonVilla,2,2
 1993/1994,18,WimbledonFC,WestHamUnited,1,2
 1993/1994,18,TottenhamHotspur,NewcastleUnited,1,2
 1993/1994,18,SheffieldWednesday,LiverpoolFC,3,1
@@ -662,7 +663,7 @@
 1993/1994,19,OldhamAthletic,SwindonTown,2,1
 1993/1994,19,SheffieldUnited,ManchesterUnited,0,3
 1993/1994,19,SouthamptonFC,IpswichTown,0,1
-1993/1994,19,HamUnited,LeedsUnited,0,1
+1993/1994,19,WestHamUnited,LeedsUnited,0,1
 1993/1994,19,ManchesterCity,EvertonFC,1,0
 1993/1994,19,LiverpoolFC,QueensParkRangers,3,2
 1993/1994,19,AstonVilla,SheffieldWednesday,2,2
@@ -670,7 +671,7 @@
 1993/1994,19,NewcastleUnited,CoventryCity,4,0
 1993/1994,19,ChelseaFC,WimbledonFC,2,0
 1993/1994,20,OldhamAthletic,BlackburnRovers,1,2
-1993/1994,20,HamUnited,CoventryCity,3,2
+1993/1994,20,WestHamUnited,CoventryCity,3,2
 1993/1994,20,SouthamptonFC,QueensParkRangers,0,1
 1993/1994,20,NewcastleUnited,ManchesterUnited,1,1
 1993/1994,20,SheffieldUnited,EvertonFC,0,0
@@ -690,7 +691,7 @@
 1993/1994,21,EvertonFC,NewcastleUnited,0,2
 1993/1994,21,CoventryCity,OldhamAthletic,1,1
 1993/1994,21,ManchesterUnited,AstonVilla,3,1
-1993/1994,21,ParkRangers,ChelseaFC,1,1
+1993/1994,21,QueensParkRangers,ChelseaFC,1,1
 1993/1994,22,NewcastleUnited,LeedsUnited,1,1
 1993/1994,22,ManchesterUnited,BlackburnRovers,1,1
 1993/1994,22,WimbledonFC,CoventryCity,1,2
@@ -699,11 +700,11 @@
 1993/1994,22,TottenhamHotspur,NorwichCity,1,3
 1993/1994,22,SwindonTown,ArsenalFC,0,4
 1993/1994,22,SouthamptonFC,ChelseaFC,3,1
-1993/1994,22,ParkRangers,OldhamAthletic,2,0
+1993/1994,22,QueensParkRangers,OldhamAthletic,2,0
 1993/1994,22,EvertonFC,SheffieldWednesday,0,2
 1993/1994,22,AstonVilla,ManchesterCity,0,0
 1993/1994,23,ChelseaFC,NewcastleUnited,1,0
-1993/1994,23,HamUnited,TottenhamHotspur,1,3
+1993/1994,23,WestHamUnited,TottenhamHotspur,1,3
 1993/1994,23,LiverpoolFC,WimbledonFC,1,1
 1993/1994,23,ManchesterCity,SouthamptonFC,1,1
 1993/1994,23,SheffieldWednesday,SwindonTown,3,3
@@ -718,14 +719,14 @@
 1993/1994,24,SwindonTown,ChelseaFC,1,3
 1993/1994,24,WimbledonFC,ArsenalFC,0,3
 1993/1994,24,SouthamptonFC,NorwichCity,0,1
-1993/1994,24,ParkRangers,SheffieldWednesday,1,2
+1993/1994,24,QueensParkRangers,SheffieldWednesday,1,2
 1993/1994,24,AstonVilla,BlackburnRovers,0,1
 1993/1994,24,NewcastleUnited,ManchesterCity,2,0
 1993/1994,24,SheffieldUnited,OldhamAthletic,2,1
 1993/1994,24,EvertonFC,WestHamUnited,0,1
 1993/1994,24,IpswichTown,LiverpoolFC,1,2
 1993/1994,25,ChelseaFC,EvertonFC,4,2
-1993/1994,25,HamUnited,SheffieldUnited,0,0
+1993/1994,25,WestHamUnited,SheffieldUnited,0,0
 1993/1994,25,CoventryCity,SwindonTown,1,1
 1993/1994,25,ArsenalFC,QueensParkRangers,0,0
 1993/1994,25,SheffieldWednesday,TottenhamHotspur,1,0
@@ -745,7 +746,7 @@
 1993/1994,26,LeedsUnited,IpswichTown,0,0
 1993/1994,26,EvertonFC,SwindonTown,6,2
 1993/1994,26,SouthamptonFC,CoventryCity,1,0
-1993/1994,26,ParkRangers,NewcastleUnited,1,2
+1993/1994,26,QueensParkRangers,NewcastleUnited,1,2
 1993/1994,27,LiverpoolFC,ManchesterCity,2,1
 1993/1994,27,SwindonTown,TottenhamHotspur,2,1
 1993/1994,27,SheffieldWednesday,SheffieldUnited,3,1
@@ -756,7 +757,7 @@
 1993/1994,27,ArsenalFC,OldhamAthletic,1,1
 1993/1994,27,NewcastleUnited,SouthamptonFC,1,2
 1993/1994,27,BlackburnRovers,LeedsUnited,2,1
-1993/1994,27,HamUnited,NorwichCity,3,3
+1993/1994,27,WestHamUnited,NorwichCity,3,3
 1993/1994,28,TottenhamHotspur,SheffieldWednesday,1,3
 1993/1994,28,SwindonTown,CoventryCity,3,1
 1993/1994,28,ManchesterCity,IpswichTown,2,1
@@ -767,8 +768,8 @@
 1993/1994,28,SheffieldUnited,WestHamUnited,3,2
 1993/1994,28,NewcastleUnited,NorwichCity,3,0
 1993/1994,28,ManchesterUnited,LiverpoolFC,1,0
-1993/1994,28,ParkRangers,ArsenalFC,1,1
-1993/1994,29,ParkRangers,ManchesterUnited,2,3
+1993/1994,28,QueensParkRangers,ArsenalFC,1,1
+1993/1994,29,QueensParkRangers,ManchesterUnited,2,3
 1993/1994,29,AstonVilla,SwindonTown,5,0
 1993/1994,29,WimbledonFC,NewcastleUnited,4,2
 1993/1994,29,TottenhamHotspur,BlackburnRovers,0,2
@@ -788,9 +789,9 @@
 1993/1994,30,TottenhamHotspur,AstonVilla,1,1
 1993/1994,30,SheffieldWednesday,ChelseaFC,3,1
 1993/1994,30,WimbledonFC,OldhamAthletic,3,0
-1993/1994,30,ParkRangers,WestHamUnited,0,0
+1993/1994,30,QueensParkRangers,WestHamUnited,0,0
 1993/1994,30,ManchesterUnited,SouthamptonFC,2,0
-1993/1994,31,HamUnited,ManchesterUnited,2,2
+1993/1994,31,WestHamUnited,ManchesterUnited,2,2
 1993/1994,31,SouthamptonFC,WimbledonFC,1,0
 1993/1994,31,ManchesterCity,SwindonTown,2,1
 1993/1994,31,LiverpoolFC,CoventryCity,1,0
@@ -805,7 +806,7 @@
 1993/1994,32,ManchesterUnited,ChelseaFC,0,1
 1993/1994,32,SwindonTown,WestHamUnited,1,1
 1993/1994,32,SheffieldWednesday,NewcastleUnited,0,1
-1993/1994,32,ParkRangers,ManchesterCity,1,1
+1993/1994,32,QueensParkRangers,ManchesterCity,1,1
 1993/1994,32,IpswichTown,ArsenalFC,1,5
 1993/1994,32,EvertonFC,OldhamAthletic,2,1
 1993/1994,32,LeedsUnited,SouthamptonFC,0,0
@@ -820,18 +821,18 @@
 1993/1994,33,LiverpoolFC,EvertonFC,2,1
 1993/1994,33,SheffieldUnited,LeedsUnited,2,2
 1993/1994,33,ArsenalFC,ManchesterUnited,2,2
-1993/1994,33,HamUnited,BlackburnRovers,1,2
+1993/1994,33,WestHamUnited,BlackburnRovers,1,2
 1993/1994,33,ChelseaFC,CoventryCity,1,2
 1993/1994,33,OldhamAthletic,TottenhamHotspur,0,2
 1993/1994,34,AstonVilla,OldhamAthletic,1,2
 1993/1994,34,ManchesterCity,SheffieldUnited,0,0
-1993/1994,34,HamUnited,NewcastleUnited,2,4
+1993/1994,34,WestHamUnited,NewcastleUnited,2,4
 1993/1994,34,TottenhamHotspur,IpswichTown,1,1
 1993/1994,34,SwindonTown,ManchesterUnited,2,2
 1993/1994,34,SouthamptonFC,ArsenalFC,0,4
 1993/1994,34,LeedsUnited,CoventryCity,1,0
 1993/1994,34,LiverpoolFC,ChelseaFC,2,1
-1993/1994,34,ParkRangers,WimbledonFC,1,0
+1993/1994,34,QueensParkRangers,WimbledonFC,1,0
 1993/1994,34,SheffieldWednesday,BlackburnRovers,1,2
 1993/1994,34,NorwichCity,EvertonFC,3,0
 1993/1994,34,WimbledonFC,LeedsUnited,1,0
@@ -847,7 +848,7 @@
 1993/1994,35,NewcastleUnited,AstonVilla,5,1
 1993/1994,36,LeedsUnited,NewcastleUnited,1,1
 1993/1994,36,ChelseaFC,SouthamptonFC,2,0
-1993/1994,36,HamUnited,IpswichTown,2,1
+1993/1994,36,WestHamUnited,IpswichTown,2,1
 1993/1994,36,SheffieldWednesday,EvertonFC,5,1
 1993/1994,36,OldhamAthletic,QueensParkRangers,4,1
 1993/1994,36,NorwichCity,TottenhamHotspur,1,2
@@ -865,10 +866,10 @@
 1993/1994,37,IpswichTown,CoventryCity,0,2
 1993/1994,37,EvertonFC,BlackburnRovers,0,3
 1993/1994,37,AstonVilla,NorwichCity,0,0
-1993/1994,37,ParkRangers,LeedsUnited,0,4
+1993/1994,37,QueensParkRangers,LeedsUnited,0,4
 1993/1994,37,NewcastleUnited,ChelseaFC,0,0
 1993/1994,38,SheffieldWednesday,QueensParkRangers,3,1
-1993/1994,38,HamUnited,EvertonFC,0,1
+1993/1994,38,WestHamUnited,EvertonFC,0,1
 1993/1994,38,NorwichCity,SouthamptonFC,4,5
 1993/1994,38,ManchesterCity,NewcastleUnited,2,1
 1993/1994,38,LiverpoolFC,IpswichTown,1,0
@@ -878,7 +879,7 @@
 1993/1994,38,ChelseaFC,SwindonTown,2,0
 1993/1994,38,LeedsUnited,ManchesterUnited,0,2
 1993/1994,38,OldhamAthletic,SheffieldUnited,1,1
-1993/1994,39,ParkRangers,EvertonFC,2,1
+1993/1994,39,QueensParkRangers,EvertonFC,2,1
 1993/1994,39,ArsenalFC,ChelseaFC,1,0
 1993/1994,39,SouthamptonFC,BlackburnRovers,3,1
 1993/1994,39,WimbledonFC,ManchesterUnited,1,0
@@ -890,7 +891,7 @@
 1993/1994,39,SheffieldUnited,AstonVilla,1,2
 1993/1994,39,LeedsUnited,TottenhamHotspur,2,0
 1993/1994,40,TottenhamHotspur,SouthamptonFC,3,0
-1993/1994,40,HamUnited,LiverpoolFC,1,2
+1993/1994,40,WestHamUnited,LiverpoolFC,1,2
 1993/1994,40,ManchesterUnited,ManchesterCity,2,0
 1993/1994,40,SheffieldWednesday,IpswichTown,5,0
 1993/1994,40,NorwichCity,SheffieldUnited,0,1
@@ -904,7 +905,7 @@
 1993/1994,41,WimbledonFC,TottenhamHotspur,2,1
 1993/1994,41,SouthamptonFC,AstonVilla,4,1
 1993/1994,41,SheffieldUnited,NewcastleUnited,2,0
-1993/1994,41,ParkRangers,SwindonTown,1,3
+1993/1994,41,QueensParkRangers,SwindonTown,1,3
 1993/1994,41,LeedsUnited,EvertonFC,3,0
 1993/1994,41,ArsenalFC,WestHamUnited,0,2
 1993/1994,41,OldhamAthletic,SheffieldWednesday,0,0
@@ -912,7 +913,7 @@
 1993/1994,41,IpswichTown,ManchesterUnited,1,2
 1993/1994,41,CoventryCity,BlackburnRovers,2,1
 1993/1994,42,SheffieldWednesday,ManchesterCity,1,1
-1993/1994,42,HamUnited,SouthamptonFC,3,3
+1993/1994,42,WestHamUnited,SouthamptonFC,3,3
 1993/1994,42,TottenhamHotspur,QueensParkRangers,1,2
 1993/1994,42,SwindonTown,LeedsUnited,0,5
 1993/1994,42,NewcastleUnited,ArsenalFC,2,0
@@ -922,7 +923,7 @@
 1993/1994,42,BlackburnRovers,IpswichTown,0,0
 1993/1994,42,NorwichCity,OldhamAthletic,1,1
 1993/1994,42,ManchesterUnited,CoventryCity,0,0
-1994/1995,1,HamUnited,LeedsUnited,0,0
+1994/1995,1,WestHamUnited,LeedsUnited,0,0
 1994/1995,1,SouthamptonFC,BlackburnRovers,1,1
 1994/1995,1,SheffieldWednesday,TottenhamHotspur,3,4
 1994/1995,1,ManchesterUnited,QueensParkRangers,2,0
@@ -939,7 +940,7 @@
 1994/1995,2,BlackburnRovers,LeicesterCity,3,0
 1994/1995,2,AstonVilla,SouthamptonFC,1,1
 1994/1995,2,TottenhamHotspur,EvertonFC,2,1
-1994/1995,2,ParkRangers,SheffieldWednesday,3,2
+1994/1995,2,QueensParkRangers,SheffieldWednesday,3,2
 1994/1995,2,NorwichCity,CrystalPalace,0,0
 1994/1995,2,ManchesterCity,WestHamUnited,3,0
 1994/1995,2,NewcastleUnited,CoventryCity,4,0
@@ -947,7 +948,7 @@
 1994/1995,3,NorwichCity,WestHamUnited,1,0
 1994/1995,3,WimbledonFC,SheffieldWednesday,0,1
 1994/1995,3,TottenhamHotspur,ManchesterUnited,0,1
-1994/1995,3,ParkRangers,IpswichTown,1,2
+1994/1995,3,QueensParkRangers,IpswichTown,1,2
 1994/1995,3,NewcastleUnited,SouthamptonFC,5,1
 1994/1995,3,ManchesterCity,EvertonFC,4,0
 1994/1995,3,LeedsUnited,ChelseaFC,2,3
@@ -960,7 +961,7 @@
 1994/1995,4,EvertonFC,NottinghamForest,1,2
 1994/1995,4,CrystalPalace,LeedsUnited,1,2
 1994/1995,4,ChelseaFC,ManchesterCity,3,0
-1994/1995,4,HamUnited,NewcastleUnited,1,3
+1994/1995,4,WestHamUnited,NewcastleUnited,1,3
 1994/1995,4,SouthamptonFC,LiverpoolFC,0,2
 1994/1995,4,SheffieldWednesday,NorwichCity,0,0
 1994/1995,4,LeicesterCity,QueensParkRangers,1,1
@@ -973,7 +974,7 @@
 1994/1995,5,AstonVilla,IpswichTown,2,0
 1994/1995,5,ManchesterCity,CrystalPalace,1,1
 1994/1995,5,LiverpoolFC,WestHamUnited,0,0
-1994/1995,5,ParkRangers,CoventryCity,2,2
+1994/1995,5,QueensParkRangers,CoventryCity,2,2
 1994/1995,5,NottinghamForest,SheffieldWednesday,4,1
 1994/1995,5,LeedsUnited,ManchesterUnited,2,1
 1994/1995,5,TottenhamHotspur,SouthamptonFC,1,2
@@ -984,20 +985,20 @@
 1994/1995,6,EvertonFC,QueensParkRangers,2,2
 1994/1995,6,CrystalPalace,WimbledonFC,0,0
 1994/1995,6,CoventryCity,LeedsUnited,2,1
-1994/1995,6,HamUnited,AstonVilla,1,0
+1994/1995,6,WestHamUnited,AstonVilla,1,0
 1994/1995,6,ChelseaFC,BlackburnRovers,1,2
 1994/1995,6,ArsenalFC,NewcastleUnited,2,3
 1994/1995,6,IpswichTown,NorwichCity,1,2
 1994/1995,7,ManchesterCity,NorwichCity,2,0
 1994/1995,7,TottenhamHotspur,NottinghamForest,1,4
-1994/1995,7,ParkRangers,WimbledonFC,0,1
+1994/1995,7,QueensParkRangers,WimbledonFC,0,1
 1994/1995,7,IpswichTown,ManchesterUnited,3,2
 1994/1995,7,EvertonFC,LeicesterCity,1,1
 1994/1995,7,CrystalPalace,ChelseaFC,0,1
 1994/1995,7,CoventryCity,SouthamptonFC,1,3
 1994/1995,7,BlackburnRovers,AstonVilla,3,1
 1994/1995,7,NewcastleUnited,LiverpoolFC,1,1
-1994/1995,7,HamUnited,ArsenalFC,0,2
+1994/1995,7,WestHamUnited,ArsenalFC,0,2
 1994/1995,7,SheffieldWednesday,LeedsUnited,1,1
 1994/1995,8,ArsenalFC,CrystalPalace,1,2
 1994/1995,8,NorwichCity,BlackburnRovers,2,1
@@ -1012,7 +1013,7 @@
 1994/1995,8,LeicesterCity,CoventryCity,2,2
 1994/1995,9,SouthamptonFC,EvertonFC,2,0
 1994/1995,9,WimbledonFC,ArsenalFC,1,3
-1994/1995,9,HamUnited,CrystalPalace,1,0
+1994/1995,9,WestHamUnited,CrystalPalace,1,0
 1994/1995,9,TottenhamHotspur,QueensParkRangers,1,1
 1994/1995,9,SheffieldWednesday,ManchesterUnited,1,0
 1994/1995,9,NorwichCity,LeedsUnited,2,1
@@ -1022,7 +1023,7 @@
 1994/1995,9,NewcastleUnited,BlackburnRovers,1,1
 1994/1995,9,CoventryCity,IpswichTown,2,0
 1994/1995,10,LeedsUnited,TottenhamHotspur,1,1
-1994/1995,10,ParkRangers,ManchesterCity,1,2
+1994/1995,10,QueensParkRangers,ManchesterCity,1,2
 1994/1995,10,ManchesterUnited,WestHamUnited,1,0
 1994/1995,10,LeicesterCity,SouthamptonFC,4,3
 1994/1995,10,EvertonFC,CoventryCity,0,2
@@ -1034,7 +1035,7 @@
 1994/1995,10,NottinghamForest,WimbledonFC,3,1
 1994/1995,11,NorwichCity,QueensParkRangers,4,2
 1994/1995,11,AstonVilla,NottinghamForest,0,2
-1994/1995,11,HamUnited,SouthamptonFC,2,0
+1994/1995,11,WestHamUnited,SouthamptonFC,2,0
 1994/1995,11,NewcastleUnited,SheffieldWednesday,2,1
 1994/1995,11,ManchesterCity,TottenhamHotspur,5,2
 1994/1995,11,LiverpoolFC,WimbledonFC,3,0
@@ -1044,7 +1045,7 @@
 1994/1995,11,ArsenalFC,CoventryCity,2,1
 1994/1995,11,LeedsUnited,LeicesterCity,2,1
 1994/1995,12,NottinghamForest,BlackburnRovers,0,2
-1994/1995,12,ParkRangers,AstonVilla,2,0
+1994/1995,12,QueensParkRangers,AstonVilla,2,0
 1994/1995,12,TottenhamHotspur,WestHamUnited,3,1
 1994/1995,12,SouthamptonFC,LeedsUnited,1,3
 1994/1995,12,ManchesterUnited,NewcastleUnited,2,0
@@ -1054,7 +1055,7 @@
 1994/1995,12,CoventryCity,ManchesterCity,1,0
 1994/1995,12,SheffieldWednesday,ChelseaFC,1,1
 1994/1995,12,WimbledonFC,NorwichCity,1,0
-1994/1995,13,ParkRangers,LiverpoolFC,2,1
+1994/1995,13,QueensParkRangers,LiverpoolFC,2,1
 1994/1995,13,IpswichTown,LeedsUnited,2,0
 1994/1995,13,EvertonFC,WestHamUnited,1,0
 1994/1995,13,SouthamptonFC,NorwichCity,1,1
@@ -1065,7 +1066,7 @@
 1994/1995,13,ManchesterUnited,ManchesterCity,5,0
 1994/1995,13,LeicesterCity,ArsenalFC,2,1
 1994/1995,13,TottenhamHotspur,ChelseaFC,0,0
-1994/1995,14,HamUnited,LeicesterCity,1,0
+1994/1995,14,WestHamUnited,LeicesterCity,1,0
 1994/1995,14,NorwichCity,EvertonFC,0,0
 1994/1995,14,NewcastleUnited,QueensParkRangers,2,1
 1994/1995,14,LiverpoolFC,NottinghamForest,1,0
@@ -1080,7 +1081,7 @@
 1994/1995,15,IpswichTown,BlackburnRovers,1,3
 1994/1995,15,WimbledonFC,NewcastleUnited,3,2
 1994/1995,15,SheffieldWednesday,WestHamUnited,1,0
-1994/1995,15,ParkRangers,LeedsUnited,3,2
+1994/1995,15,QueensParkRangers,LeedsUnited,3,2
 1994/1995,15,NottinghamForest,ChelseaFC,0,1
 1994/1995,15,ManchesterUnited,CrystalPalace,3,0
 1994/1995,15,CoventryCity,NorwichCity,1,0
@@ -1088,7 +1089,7 @@
 1994/1995,15,LeicesterCity,ManchesterCity,0,1
 1994/1995,15,EvertonFC,LiverpoolFC,2,0
 1994/1995,16,CrystalPalace,SouthamptonFC,0,0
-1994/1995,16,HamUnited,CoventryCity,0,1
+1994/1995,16,WestHamUnited,CoventryCity,0,1
 1994/1995,16,NorwichCity,LeicesterCity,2,1
 1994/1995,16,NewcastleUnited,IpswichTown,1,1
 1994/1995,16,ManchesterCity,WimbledonFC,2,0
@@ -1107,21 +1108,21 @@
 1994/1995,17,IpswichTown,ManchesterCity,1,2
 1994/1995,17,CoventryCity,LiverpoolFC,1,1
 1994/1995,17,SheffieldWednesday,CrystalPalace,1,0
-1994/1995,17,ParkRangers,WestHamUnited,2,1
+1994/1995,17,QueensParkRangers,WestHamUnited,2,1
 1994/1995,17,EvertonFC,LeedsUnited,3,0
 1994/1995,18,NewcastleUnited,LeicesterCity,3,1
 1994/1995,18,AstonVilla,EvertonFC,0,0
 1994/1995,18,LeedsUnited,WestHamUnited,2,2
 1994/1995,18,NorwichCity,ChelseaFC,3,0
 1994/1995,18,NottinghamForest,IpswichTown,4,1
-1994/1995,18,ParkRangers,ManchesterUnited,2,3
+1994/1995,18,QueensParkRangers,ManchesterUnited,2,3
 1994/1995,18,TottenhamHotspur,SheffieldWednesday,3,1
 1994/1995,18,WimbledonFC,CoventryCity,2,0
 1994/1995,18,BlackburnRovers,SouthamptonFC,3,2
 1994/1995,18,LiverpoolFC,CrystalPalace,0,0
 1994/1995,18,ManchesterCity,ArsenalFC,1,2
 1994/1995,19,IpswichTown,WimbledonFC,2,2
-1994/1995,19,HamUnited,ManchesterCity,3,0
+1994/1995,19,WestHamUnited,ManchesterCity,3,0
 1994/1995,19,SheffieldWednesday,QueensParkRangers,0,2
 1994/1995,19,ManchesterUnited,NottinghamForest,1,2
 1994/1995,19,LeicesterCity,BlackburnRovers,0,0
@@ -1132,7 +1133,7 @@
 1994/1995,19,ChelseaFC,LiverpoolFC,0,0
 1994/1995,19,SouthamptonFC,AstonVilla,2,1
 1994/1995,20,EvertonFC,SheffieldWednesday,1,4
-1994/1995,20,HamUnited,IpswichTown,1,1
+1994/1995,20,WestHamUnited,IpswichTown,1,1
 1994/1995,20,SouthamptonFC,WimbledonFC,2,3
 1994/1995,20,NorwichCity,TottenhamHotspur,0,2
 1994/1995,20,ManchesterCity,BlackburnRovers,1,3
@@ -1144,7 +1145,7 @@
 1994/1995,20,LeicesterCity,LiverpoolFC,1,2
 1994/1995,21,NottinghamForest,NorwichCity,1,0
 1994/1995,21,TottenhamHotspur,CrystalPalace,0,0
-1994/1995,21,ParkRangers,SouthamptonFC,2,2
+1994/1995,21,QueensParkRangers,SouthamptonFC,2,2
 1994/1995,21,WimbledonFC,WestHamUnited,1,0
 1994/1995,21,SheffieldWednesday,CoventryCity,5,1
 1994/1995,21,LiverpoolFC,ManchesterCity,2,0
@@ -1157,7 +1158,7 @@
 1994/1995,22,ChelseaFC,WimbledonFC,1,1
 1994/1995,22,LeicesterCity,SheffieldWednesday,0,1
 1994/1995,22,ArsenalFC,QueensParkRangers,1,3
-1994/1995,22,HamUnited,NottinghamForest,3,1
+1994/1995,22,WestHamUnited,NottinghamForest,3,1
 1994/1995,22,SouthamptonFC,ManchesterUnited,2,2
 1994/1995,22,ManchesterCity,AstonVilla,2,2
 1994/1995,22,LeedsUnited,LiverpoolFC,0,2
@@ -1177,7 +1178,7 @@
 1994/1995,23,ManchesterCity,NewcastleUnited,0,0
 1994/1995,24,LiverpoolFC,IpswichTown,0,1
 1994/1995,24,LeedsUnited,SouthamptonFC,0,0
-1994/1995,24,HamUnited,TottenhamHotspur,1,2
+1994/1995,24,WestHamUnited,TottenhamHotspur,1,2
 1994/1995,24,ManchesterCity,CoventryCity,0,0
 1994/1995,24,NorwichCity,WimbledonFC,1,2
 1994/1995,24,CrystalPalace,LeicesterCity,2,0
@@ -1192,12 +1193,12 @@
 1994/1995,25,NottinghamForest,AstonVilla,1,2
 1994/1995,25,SheffieldWednesday,NewcastleUnited,0,0
 1994/1995,25,ManchesterUnited,BlackburnRovers,1,0
-1994/1995,25,ParkRangers,NorwichCity,2,0
+1994/1995,25,QueensParkRangers,NorwichCity,2,0
 1994/1995,25,LeicesterCity,LeedsUnited,1,3
 1994/1995,25,SouthamptonFC,WestHamUnited,1,1
 1994/1995,25,TottenhamHotspur,ManchesterCity,2,1
 1994/1995,25,WimbledonFC,LiverpoolFC,0,0
-1994/1995,26,HamUnited,SheffieldWednesday,0,2
+1994/1995,26,WestHamUnited,SheffieldWednesday,0,2
 1994/1995,26,LeedsUnited,QueensParkRangers,4,0
 1994/1995,26,ArsenalFC,SouthamptonFC,1,1
 1994/1995,26,LiverpoolFC,EvertonFC,0,0
@@ -1208,7 +1209,7 @@
 1994/1995,26,NorwichCity,CoventryCity,2,2
 1994/1995,26,NewcastleUnited,WimbledonFC,2,1
 1994/1995,26,BlackburnRovers,IpswichTown,4,1
-1994/1995,27,ParkRangers,NewcastleUnited,3,0
+1994/1995,27,QueensParkRangers,NewcastleUnited,3,0
 1994/1995,27,NottinghamForest,LiverpoolFC,1,1
 1994/1995,27,SouthamptonFC,ManchesterCity,2,2
 1994/1995,27,LeicesterCity,WestHamUnited,1,2
@@ -1228,7 +1229,7 @@
 1994/1995,28,ArsenalFC,LeicesterCity,1,1
 1994/1995,28,CrystalPalace,CoventryCity,0,2
 1994/1995,28,BlackburnRovers,SheffieldWednesday,3,1
-1994/1995,28,HamUnited,EvertonFC,2,2
+1994/1995,28,WestHamUnited,EvertonFC,2,2
 1994/1995,28,LeedsUnited,IpswichTown,4,0
 1994/1995,29,CoventryCity,WestHamUnited,2,0
 1994/1995,29,SheffieldWednesday,AstonVilla,1,2
@@ -1237,7 +1238,7 @@
 1994/1995,29,NottinghamForest,LeedsUnited,3,0
 1994/1995,29,TottenhamHotspur,LiverpoolFC,0,0
 1994/1995,29,ManchesterUnited,ArsenalFC,3,0
-1994/1995,29,ParkRangers,BlackburnRovers,0,1
+1994/1995,29,QueensParkRangers,BlackburnRovers,0,1
 1994/1995,29,LeicesterCity,NorwichCity,1,0
 1994/1995,29,SouthamptonFC,CrystalPalace,3,1
 1994/1995,29,EvertonFC,ChelseaFC,3,3
@@ -1250,19 +1251,19 @@
 1994/1995,30,CrystalPalace,SheffieldWednesday,2,1
 1994/1995,30,LiverpoolFC,CoventryCity,2,3
 1994/1995,30,ChelseaFC,SouthamptonFC,0,2
-1994/1995,30,HamUnited,QueensParkRangers,0,0
+1994/1995,30,WestHamUnited,QueensParkRangers,0,0
 1994/1995,30,NewcastleUnited,TottenhamHotspur,3,3
 1994/1995,31,TottenhamHotspur,WimbledonFC,1,2
 1994/1995,31,EvertonFC,ManchesterUnited,1,0
 1994/1995,31,SheffieldWednesday,LiverpoolFC,1,2
 1994/1995,31,NewcastleUnited,AstonVilla,3,1
-1994/1995,31,HamUnited,ChelseaFC,1,2
+1994/1995,31,WestHamUnited,ChelseaFC,1,2
 1994/1995,31,CrystalPalace,ArsenalFC,0,3
 1994/1995,31,CoventryCity,LeicesterCity,4,2
 1994/1995,31,BlackburnRovers,NorwichCity,0,0
 1994/1995,31,ManchesterCity,LeedsUnited,0,0
 1994/1995,31,IpswichTown,SouthamptonFC,2,1
-1994/1995,31,ParkRangers,NottinghamForest,1,1
+1994/1995,31,QueensParkRangers,NottinghamForest,1,1
 1994/1995,32,LeicesterCity,EvertonFC,2,2
 1994/1995,32,WimbledonFC,QueensParkRangers,1,3
 1994/1995,32,SouthamptonFC,CoventryCity,0,0
@@ -1277,7 +1278,7 @@
 1994/1995,33,AstonVilla,CoventryCity,0,0
 1994/1995,33,WimbledonFC,ManchesterUnited,0,1
 1994/1995,33,BlackburnRovers,ArsenalFC,3,1
-1994/1995,33,ParkRangers,LeicesterCity,2,0
+1994/1995,33,QueensParkRangers,LeicesterCity,2,0
 1994/1995,33,NottinghamForest,EvertonFC,2,1
 1994/1995,33,NorwichCity,SheffieldWednesday,0,0
 1994/1995,33,TottenhamHotspur,IpswichTown,3,0
@@ -1286,7 +1287,7 @@
 1994/1995,33,LiverpoolFC,SouthamptonFC,3,1
 1994/1995,33,LeedsUnited,CrystalPalace,3,1
 1994/1995,34,SheffieldWednesday,WimbledonFC,0,1
-1994/1995,34,HamUnited,NorwichCity,2,2
+1994/1995,34,WestHamUnited,NorwichCity,2,2
 1994/1995,34,LeicesterCity,NottinghamForest,2,4
 1994/1995,34,CoventryCity,BlackburnRovers,1,1
 1994/1995,34,ChelseaFC,LeedsUnited,0,3
@@ -1296,7 +1297,7 @@
 1994/1995,34,CrystalPalace,AstonVilla,0,0
 1994/1995,34,IpswichTown,QueensParkRangers,0,1
 1994/1995,34,ArsenalFC,LiverpoolFC,0,1
-1994/1995,35,ParkRangers,EvertonFC,2,3
+1994/1995,35,QueensParkRangers,EvertonFC,2,3
 1994/1995,35,WimbledonFC,CrystalPalace,2,0
 1994/1995,35,TottenhamHotspur,LeicesterCity,1,0
 1994/1995,35,ManchesterCity,SheffieldWednesday,3,2
@@ -1317,9 +1318,9 @@
 1994/1995,36,ChelseaFC,NewcastleUnited,1,1
 1994/1995,36,ManchesterUnited,LeedsUnited,0,0
 1994/1995,36,SouthamptonFC,TottenhamHotspur,4,3
-1994/1995,36,HamUnited,LiverpoolFC,3,0
+1994/1995,36,WestHamUnited,LiverpoolFC,3,0
 1994/1995,37,SheffieldWednesday,LeicesterCity,1,0
-1994/1995,37,ParkRangers,ArsenalFC,3,1
+1994/1995,37,QueensParkRangers,ArsenalFC,3,1
 1994/1995,37,NottinghamForest,WestHamUnited,1,1
 1994/1995,37,NewcastleUnited,NorwichCity,3,0
 1994/1995,37,LiverpoolFC,LeedsUnited,0,1
@@ -1330,7 +1331,7 @@
 1994/1995,37,IpswichTown,EvertonFC,0,1
 1994/1995,37,ManchesterUnited,SouthamptonFC,2,1
 1994/1995,38,NorwichCity,NottinghamForest,0,1
-1994/1995,38,HamUnited,WimbledonFC,3,0
+1994/1995,38,WestHamUnited,WimbledonFC,3,0
 1994/1995,38,ManchesterCity,LiverpoolFC,2,1
 1994/1995,38,EvertonFC,NewcastleUnited,2,0
 1994/1995,38,CrystalPalace,TottenhamHotspur,1,1
@@ -1343,7 +1344,7 @@
 1994/1995,39,WimbledonFC,SouthamptonFC,0,2
 1994/1995,39,TottenhamHotspur,NorwichCity,1,0
 1994/1995,39,SheffieldWednesday,EvertonFC,0,0
-1994/1995,39,ParkRangers,CrystalPalace,0,1
+1994/1995,39,QueensParkRangers,CrystalPalace,0,1
 1994/1995,39,NottinghamForest,CoventryCity,2,0
 1994/1995,39,ManchesterUnited,ChelseaFC,0,0
 1994/1995,39,LiverpoolFC,LeicesterCity,2,0
@@ -1352,7 +1353,7 @@
 1994/1995,39,AstonVilla,ArsenalFC,0,4
 1994/1995,39,NewcastleUnited,LeedsUnited,1,2
 1994/1995,39,ChelseaFC,QueensParkRangers,1,0
-1994/1995,40,ParkRangers,ChelseaFC,1,0
+1994/1995,40,QueensParkRangers,ChelseaFC,1,0
 1994/1995,40,LeedsUnited,AstonVilla,1,0
 1994/1995,40,SouthamptonFC,SheffieldWednesday,0,0
 1994/1995,40,NorwichCity,LiverpoolFC,1,2
@@ -1360,14 +1361,14 @@
 1994/1995,40,LeicesterCity,IpswichTown,2,0
 1994/1995,40,EvertonFC,WimbledonFC,0,0
 1994/1995,40,CrystalPalace,NottinghamForest,1,2
-1994/1995,40,HamUnited,BlackburnRovers,2,0
+1994/1995,40,WestHamUnited,BlackburnRovers,2,0
 1994/1995,40,CoventryCity,ManchesterUnited,2,3
 1994/1995,41,ArsenalFC,WimbledonFC,0,0
 1994/1995,41,AstonVilla,LiverpoolFC,2,0
 1994/1995,41,CrystalPalace,WestHamUnited,1,0
 1994/1995,41,IpswichTown,CoventryCity,2,0
 1994/1995,41,EvertonFC,SouthamptonFC,0,0
-1994/1995,41,ParkRangers,TottenhamHotspur,2,1
+1994/1995,41,QueensParkRangers,TottenhamHotspur,2,1
 1994/1995,41,NottinghamForest,ManchesterCity,1,0
 1994/1995,41,LeicesterCity,ChelseaFC,1,1
 1994/1995,41,LeedsUnited,NorwichCity,2,1
@@ -1375,7 +1376,7 @@
 1994/1995,41,BlackburnRovers,NewcastleUnited,1,0
 1994/1995,42,WimbledonFC,NottinghamForest,2,2
 1994/1995,42,LiverpoolFC,BlackburnRovers,2,1
-1994/1995,42,HamUnited,ManchesterUnited,1,1
+1994/1995,42,WestHamUnited,ManchesterUnited,1,1
 1994/1995,42,TottenhamHotspur,LeedsUnited,1,1
 1994/1995,42,SouthamptonFC,LeicesterCity,2,2
 1994/1995,42,SheffieldWednesday,IpswichTown,4,1
@@ -1783,7 +1784,7 @@
 1996/1997,2,NewcastleUnited,WimbledonFC,2,0
 1996/1997,2,NottinghamForest,SunderlandAFC,1,4
 1996/1997,2,TottenhamHotspur,DerbyCounty,1,1
-1996/1997,2,HamUnited,CoventryCity,1,1
+1996/1997,2,WestHamUnited,CoventryCity,1,1
 1996/1997,3,AstonVilla,DerbyCounty,2,0
 1996/1997,3,ChelseaFC,CoventryCity,2,0
 1996/1997,3,LeicesterCity,ArsenalFC,0,2
@@ -1791,7 +1792,7 @@
 1996/1997,3,NewcastleUnited,SheffieldWednesday,1,2
 1996/1997,3,NottinghamForest,MiddlesbroughFC,1,1
 1996/1997,3,TottenhamHotspur,EvertonFC,0,0
-1996/1997,3,HamUnited,SouthamptonFC,2,1
+1996/1997,3,WestHamUnited,SouthamptonFC,2,1
 1996/1997,3,ManchesterUnited,BlackburnRovers,2,2
 1996/1997,3,LeedsUnited,WimbledonFC,1,0
 1996/1997,4,SheffieldWednesday,LeicesterCity,2,1
@@ -1820,7 +1821,7 @@
 1996/1997,6,ManchesterUnited,NottinghamForest,4,1
 1996/1997,6,NewcastleUnited,BlackburnRovers,2,1
 1996/1997,6,SouthamptonFC,TottenhamHotspur,0,1
-1996/1997,6,HamUnited,WimbledonFC,0,2
+1996/1997,6,WestHamUnited,WimbledonFC,0,2
 1996/1997,6,ChelseaFC,AstonVilla,1,1
 1996/1997,6,LeicesterCity,LiverpoolFC,0,3
 1996/1997,6,ArsenalFC,SheffieldWednesday,4,1
@@ -1842,7 +1843,7 @@
 1996/1997,8,LeicesterCity,LeedsUnited,1,0
 1996/1997,8,SouthamptonFC,MiddlesbroughFC,4,0
 1996/1997,8,ManchesterUnited,TottenhamHotspur,2,0
-1996/1997,8,HamUnited,LiverpoolFC,1,2
+1996/1997,8,WestHamUnited,LiverpoolFC,1,2
 1996/1997,8,NewcastleUnited,AstonVilla,4,3
 1996/1997,9,BlackburnRovers,ArsenalFC,0,2
 1996/1997,9,DerbyCounty,NewcastleUnited,0,1
@@ -1861,7 +1862,7 @@
 1996/1997,10,NottinghamForest,DerbyCounty,1,1
 1996/1997,10,SheffieldWednesday,BlackburnRovers,1,1
 1996/1997,10,SouthamptonFC,SunderlandAFC,3,0
-1996/1997,10,HamUnited,LeicesterCity,1,0
+1996/1997,10,WestHamUnited,LeicesterCity,1,0
 1996/1997,10,NewcastleUnited,ManchesterUnited,5,0
 1996/1997,10,LiverpoolFC,EvertonFC,1,1
 1996/1997,11,ArsenalFC,LeedsUnited,3,0
@@ -1871,7 +1872,7 @@
 1996/1997,11,MiddlesbroughFC,WimbledonFC,0,0
 1996/1997,11,SouthamptonFC,ManchesterUnited,6,3
 1996/1997,11,SunderlandAFC,AstonVilla,1,0
-1996/1997,11,HamUnited,BlackburnRovers,2,1
+1996/1997,11,WestHamUnited,BlackburnRovers,2,1
 1996/1997,11,LiverpoolFC,DerbyCounty,2,1
 1996/1997,11,NottinghamForest,EvertonFC,0,1
 1996/1997,12,AstonVilla,NottinghamForest,2,0
@@ -1901,7 +1902,7 @@
 1996/1997,14,MiddlesbroughFC,ManchesterUnited,2,2
 1996/1997,14,SouthamptonFC,LeedsUnited,0,2
 1996/1997,14,SunderlandAFC,SheffieldWednesday,1,1
-1996/1997,14,HamUnited,DerbyCounty,1,1
+1996/1997,14,WestHamUnited,DerbyCounty,1,1
 1996/1997,14,ArsenalFC,TottenhamHotspur,3,1
 1996/1997,14,NottinghamForest,BlackburnRovers,2,2
 1996/1997,15,AstonVilla,MiddlesbroughFC,1,0
@@ -1922,11 +1923,11 @@
 1996/1997,16,LiverpoolFC,SheffieldWednesday,0,1
 1996/1997,16,LeicesterCity,BlackburnRovers,1,1
 1996/1997,16,CoventryCity,TottenhamHotspur,1,2
-1996/1997,16,HamUnited,ManchesterUnited,2,2
+1996/1997,16,WestHamUnited,ManchesterUnited,2,2
 1996/1997,16,NottinghamForest,NewcastleUnited,0,0
 1996/1997,17,MiddlesbroughFC,LeicesterCity,0,2
 1996/1997,17,ArsenalFC,SouthamptonFC,3,1
-1996/1997,17,HamUnited,AstonVilla,0,2
+1996/1997,17,WestHamUnited,AstonVilla,0,2
 1996/1997,17,LeedsUnited,TottenhamHotspur,0,0
 1996/1997,17,WimbledonFC,BlackburnRovers,1,0
 1996/1997,17,SunderlandAFC,ChelseaFC,3,0
@@ -1955,7 +1956,7 @@
 1996/1997,19,TottenhamHotspur,SouthamptonFC,3,1
 1996/1997,19,WimbledonFC,WestHamUnited,1,1
 1996/1997,20,LiverpoolFC,MiddlesbroughFC,5,1
-1996/1997,20,HamUnited,ArsenalFC,1,2
+1996/1997,20,WestHamUnited,ArsenalFC,1,2
 1996/1997,20,TottenhamHotspur,BlackburnRovers,2,1
 1996/1997,20,NottinghamForest,CoventryCity,0,1
 1996/1997,20,LeedsUnited,DerbyCounty,0,0
@@ -1972,7 +1973,7 @@
 1996/1997,21,LeicesterCity,NottinghamForest,2,2
 1996/1997,21,ManchesterUnited,LeedsUnited,1,0
 1996/1997,21,NewcastleUnited,TottenhamHotspur,7,1
-1996/1997,21,HamUnited,SunderlandAFC,2,0
+1996/1997,21,WestHamUnited,SunderlandAFC,2,0
 1996/1997,21,SouthamptonFC,LiverpoolFC,0,1
 1996/1997,22,ArsenalFC,MiddlesbroughFC,2,0
 1996/1997,22,ChelseaFC,LiverpoolFC,1,0
@@ -1980,7 +1981,7 @@
 1996/1997,22,EvertonFC,BlackburnRovers,0,2
 1996/1997,22,ManchesterUnited,AstonVilla,0,0
 1996/1997,22,NewcastleUnited,LeedsUnited,3,0
-1996/1997,22,HamUnited,NottinghamForest,0,1
+1996/1997,22,WestHamUnited,NottinghamForest,0,1
 1996/1997,22,DerbyCounty,SheffieldWednesday,2,2
 1996/1997,22,SouthamptonFC,WimbledonFC,0,0
 1996/1997,22,LeicesterCity,TottenhamHotspur,1,1
@@ -2003,7 +2004,7 @@
 1996/1997,24,SunderlandAFC,BlackburnRovers,0,0
 1996/1997,24,ArsenalFC,EvertonFC,3,1
 1996/1997,24,NottinghamForest,TottenhamHotspur,2,1
-1996/1997,24,HamUnited,LeedsUnited,0,2
+1996/1997,24,WestHamUnited,LeedsUnited,0,2
 1996/1997,25,AstonVilla,SunderlandAFC,1,0
 1996/1997,25,BlackburnRovers,WestHamUnited,2,1
 1996/1997,25,DerbyCounty,LiverpoolFC,0,1
@@ -2033,7 +2034,7 @@
 1996/1997,27,SouthamptonFC,SheffieldWednesday,2,3
 1996/1997,27,SunderlandAFC,LeedsUnited,0,1
 1996/1997,27,ArsenalFC,WimbledonFC,0,1
-1996/1997,27,HamUnited,TottenhamHotspur,4,3
+1996/1997,27,WestHamUnited,TottenhamHotspur,4,3
 1996/1997,28,BlackburnRovers,SunderlandAFC,1,0
 1996/1997,28,DerbyCounty,ChelseaFC,3,2
 1996/1997,28,EvertonFC,ArsenalFC,0,2
@@ -2072,7 +2073,7 @@
 1996/1997,31,TottenhamHotspur,WimbledonFC,1,0
 1996/1997,31,LiverpoolFC,CoventryCity,1,2
 1996/1997,31,LeedsUnited,BlackburnRovers,0,0
-1996/1997,31,HamUnited,MiddlesbroughFC,0,0
+1996/1997,31,WestHamUnited,MiddlesbroughFC,0,0
 1996/1997,31,LeicesterCity,SheffieldWednesday,1,0
 1996/1997,32,LiverpoolFC,LeedsUnited,4,0
 1996/1997,32,ArsenalFC,ManchesterUnited,1,2
@@ -2083,7 +2084,7 @@
 1996/1997,32,SouthamptonFC,EvertonFC,2,2
 1996/1997,32,MiddlesbroughFC,DerbyCounty,6,1
 1996/1997,32,NottinghamForest,SheffieldWednesday,0,3
-1996/1997,32,HamUnited,NewcastleUnited,0,0
+1996/1997,32,WestHamUnited,NewcastleUnited,0,0
 1996/1997,33,MiddlesbroughFC,NottinghamForest,1,1
 1996/1997,33,CoventryCity,ChelseaFC,3,1
 1996/1997,33,ArsenalFC,LeicesterCity,2,0
@@ -2103,7 +2104,7 @@
 1996/1997,34,NottinghamForest,LeedsUnited,1,1
 1996/1997,34,SheffieldWednesday,WimbledonFC,3,1
 1996/1997,34,SouthamptonFC,CoventryCity,2,2
-1996/1997,34,HamUnited,EvertonFC,2,2
+1996/1997,34,WestHamUnited,EvertonFC,2,2
 1996/1997,35,EvertonFC,LiverpoolFC,1,1
 1996/1997,35,CoventryCity,ArsenalFC,1,1
 1996/1997,35,LeedsUnited,AstonVilla,0,0
@@ -2123,13 +2124,13 @@
 1996/1997,36,NottinghamForest,WimbledonFC,1,1
 1996/1997,36,SouthamptonFC,BlackburnRovers,2,0
 1996/1997,36,SunderlandAFC,EvertonFC,3,0
-1996/1997,36,HamUnited,SheffieldWednesday,5,1
+1996/1997,36,WestHamUnited,SheffieldWednesday,5,1
 1996/1997,37,LeedsUnited,EvertonFC,1,0
 1996/1997,37,CoventryCity,LeicesterCity,0,0
 1996/1997,37,SunderlandAFC,ManchesterUnited,2,1
 1996/1997,37,ArsenalFC,NottinghamForest,2,0
 1996/1997,37,LiverpoolFC,NewcastleUnited,4,3
-1996/1997,37,HamUnited,ChelseaFC,3,2
+1996/1997,37,WestHamUnited,ChelseaFC,3,2
 1996/1997,37,MiddlesbroughFC,BlackburnRovers,2,1
 1996/1997,37,DerbyCounty,SouthamptonFC,1,1
 1996/1997,37,SheffieldWednesday,TottenhamHotspur,2,1
@@ -2160,7 +2161,7 @@
 1997/1998,2,ManchesterUnited,SouthamptonFC,1,0
 1997/1998,2,AstonVilla,BlackburnRovers,0,4
 1997/1998,2,SheffieldWednesday,LeedsUnited,1,3
-1997/1998,2,HamUnited,TottenhamHotspur,2,1
+1997/1998,2,WestHamUnited,TottenhamHotspur,2,1
 1997/1998,2,DerbyCounty,WimbledonFC,1,1
 1997/1998,2,ChelseaFC,EvertonFC,2,0
 1997/1998,2,BoltonWanderers,NewcastleUnited,1,0
@@ -2188,7 +2189,7 @@
 1997/1998,5,ArsenalFC,TottenhamHotspur,0,0
 1997/1998,5,AstonVilla,LeedsUnited,1,0
 1997/1998,5,SheffieldWednesday,LeicesterCity,1,0
-1997/1998,5,HamUnited,WimbledonFC,3,1
+1997/1998,5,WestHamUnited,WimbledonFC,3,1
 1997/1998,5,ChelseaFC,SouthamptonFC,4,2
 1997/1998,5,CrystalPalace,BlackburnRovers,1,2
 1997/1998,5,DerbyCounty,BarnsleyFC,1,0
@@ -2209,7 +2210,7 @@
 1997/1998,7,SouthamptonFC,LiverpoolFC,1,1
 1997/1998,7,TottenhamHotspur,BlackburnRovers,0,0
 1997/1998,7,BoltonWanderers,ManchesterUnited,0,0
-1997/1998,7,HamUnited,NewcastleUnited,0,1
+1997/1998,7,WestHamUnited,NewcastleUnited,0,1
 1997/1998,7,WimbledonFC,CrystalPalace,0,1
 1997/1998,7,EvertonFC,BarnsleyFC,4,2
 1997/1998,7,LeedsUnited,LeicesterCity,0,1
@@ -2226,7 +2227,7 @@
 1997/1998,8,SouthamptonFC,LeedsUnited,0,2
 1997/1998,9,AstonVilla,SheffieldWednesday,2,2
 1997/1998,9,BarnsleyFC,LeicesterCity,0,2
-1997/1998,9,HamUnited,LiverpoolFC,2,1
+1997/1998,9,WestHamUnited,LiverpoolFC,2,1
 1997/1998,9,ChelseaFC,NewcastleUnited,1,0
 1997/1998,9,CrystalPalace,BoltonWanderers,2,2
 1997/1998,9,DerbyCounty,SouthamptonFC,4,0
@@ -2246,7 +2247,7 @@
 1997/1998,10,LeicesterCity,DerbyCounty,1,2
 1997/1998,11,AstonVilla,WimbledonFC,1,2
 1997/1998,11,BlackburnRovers,SouthamptonFC,1,0
-1997/1998,11,HamUnited,BoltonWanderers,3,0
+1997/1998,11,WestHamUnited,BoltonWanderers,3,0
 1997/1998,11,ChelseaFC,LeicesterCity,1,0
 1997/1998,11,CrystalPalace,ArsenalFC,0,0
 1997/1998,11,DerbyCounty,ManchesterUnited,2,2
@@ -2273,7 +2274,7 @@
 1997/1998,13,WimbledonFC,CoventryCity,1,2
 1997/1998,13,DerbyCounty,ArsenalFC,3,0
 1997/1998,13,EvertonFC,SouthamptonFC,0,2
-1997/1998,13,HamUnited,CrystalPalace,4,1
+1997/1998,13,WestHamUnited,CrystalPalace,4,1
 1997/1998,14,SheffieldWednesday,BoltonWanderers,5,0
 1997/1998,14,SouthamptonFC,BarnsleyFC,4,1
 1997/1998,14,BlackburnRovers,EvertonFC,3,2
@@ -2295,7 +2296,7 @@
 1997/1998,15,LeedsUnited,WestHamUnited,3,1
 1997/1998,15,TottenhamHotspur,CrystalPalace,0,1
 1997/1998,16,SouthamptonFC,SheffieldWednesday,2,3
-1997/1998,16,HamUnited,AstonVilla,2,1
+1997/1998,16,WestHamUnited,AstonVilla,2,1
 1997/1998,16,BoltonWanderers,WimbledonFC,1,0
 1997/1998,16,ChelseaFC,DerbyCounty,4,0
 1997/1998,16,CoventryCity,LeicesterCity,0,2
@@ -2317,7 +2318,7 @@
 1997/1998,18,ArsenalFC,BlackburnRovers,1,3
 1997/1998,18,BarnsleyFC,NewcastleUnited,2,2
 1997/1998,18,SouthamptonFC,LeicesterCity,2,1
-1997/1998,18,HamUnited,SheffieldWednesday,1,0
+1997/1998,18,WestHamUnited,SheffieldWednesday,1,0
 1997/1998,18,ChelseaFC,LeedsUnited,0,0
 1997/1998,18,CoventryCity,TottenhamHotspur,4,0
 1997/1998,18,CrystalPalace,LiverpoolFC,0,3
@@ -2340,7 +2341,7 @@
 1997/1998,20,SheffieldWednesday,BlackburnRovers,0,0
 1997/1998,20,AstonVilla,TottenhamHotspur,4,1
 1997/1998,20,BoltonWanderers,BarnsleyFC,1,1
-1997/1998,20,HamUnited,CoventryCity,1,0
+1997/1998,20,WestHamUnited,CoventryCity,1,0
 1997/1998,20,ChelseaFC,WimbledonFC,1,1
 1997/1998,20,CrystalPalace,SouthamptonFC,1,1
 1997/1998,20,DerbyCounty,NewcastleUnited,1,0
@@ -2358,7 +2359,7 @@
 1997/1998,22,ManchesterUnited,TottenhamHotspur,2,0
 1997/1998,22,AstonVilla,LeicesterCity,1,1
 1997/1998,22,SheffieldWednesday,NewcastleUnited,2,1
-1997/1998,22,HamUnited,BarnsleyFC,6,0
+1997/1998,22,WestHamUnited,BarnsleyFC,6,0
 1997/1998,22,BoltonWanderers,SouthamptonFC,0,0
 1997/1998,22,ChelseaFC,CoventryCity,3,1
 1997/1998,22,LiverpoolFC,WimbledonFC,2,0
@@ -2380,7 +2381,7 @@
 1997/1998,24,SheffieldWednesday,WimbledonFC,1,1
 1997/1998,24,BoltonWanderers,CoventryCity,1,5
 1997/1998,24,ChelseaFC,BarnsleyFC,2,0
-1997/1998,24,HamUnited,EvertonFC,2,2
+1997/1998,24,WestHamUnited,EvertonFC,2,2
 1997/1998,24,CrystalPalace,LeedsUnited,0,2
 1997/1998,24,DerbyCounty,TottenhamHotspur,2,1
 1997/1998,24,AstonVilla,NewcastleUnited,0,1
@@ -2400,7 +2401,7 @@
 1997/1998,26,SouthamptonFC,CoventryCity,1,2
 1997/1998,26,LeedsUnited,BlackburnRovers,4,0
 1997/1998,26,ChelseaFC,CrystalPalace,6,2
-1997/1998,26,HamUnited,ManchesterUnited,1,1
+1997/1998,26,WestHamUnited,ManchesterUnited,1,1
 1997/1998,26,AstonVilla,BarnsleyFC,0,1
 1997/1998,26,WimbledonFC,NewcastleUnited,0,0
 1997/1998,26,BoltonWanderers,ArsenalFC,0,1
@@ -2423,7 +2424,7 @@
 1997/1998,28,EvertonFC,NewcastleUnited,0,0
 1997/1998,28,LeedsUnited,SouthamptonFC,0,1
 1997/1998,28,TottenhamHotspur,BoltonWanderers,1,0
-1997/1998,28,HamUnited,ArsenalFC,0,0
+1997/1998,28,WestHamUnited,ArsenalFC,0,0
 1997/1998,29,LeedsUnited,TottenhamHotspur,1,0
 1997/1998,29,LiverpoolFC,BoltonWanderers,2,1
 1997/1998,29,SheffieldWednesday,ManchesterUnited,2,0
@@ -2442,7 +2443,7 @@
 1997/1998,30,BarnsleyFC,SouthamptonFC,4,3
 1997/1998,30,TottenhamHotspur,LiverpoolFC,3,3
 1997/1998,30,BoltonWanderers,SheffieldWednesday,3,2
-1997/1998,30,HamUnited,ChelseaFC,2,1
+1997/1998,30,WestHamUnited,ChelseaFC,2,1
 1997/1998,30,DerbyCounty,LeedsUnited,0,5
 1997/1998,31,ManchesterUnited,WimbledonFC,2,0
 1997/1998,31,ArsenalFC,SheffieldWednesday,1,0
@@ -2452,7 +2453,7 @@
 1997/1998,31,CoventryCity,DerbyCounty,1,0
 1997/1998,31,CrystalPalace,TottenhamHotspur,1,3
 1997/1998,31,EvertonFC,AstonVilla,1,4
-1997/1998,31,HamUnited,LeedsUnited,3,0
+1997/1998,31,WestHamUnited,LeedsUnited,3,0
 1997/1998,31,ChelseaFC,BlackburnRovers,0,1
 1997/1998,32,NewcastleUnited,CrystalPalace,1,2
 1997/1998,32,AstonVilla,WestHamUnited,2,0
@@ -2470,7 +2471,7 @@
 1997/1998,33,BarnsleyFC,SheffieldWednesday,2,1
 1997/1998,33,SouthamptonFC,WimbledonFC,0,1
 1997/1998,33,BoltonWanderers,BlackburnRovers,2,1
-1997/1998,33,HamUnited,DerbyCounty,0,0
+1997/1998,33,WestHamUnited,DerbyCounty,0,0
 1997/1998,33,ChelseaFC,TottenhamHotspur,2,0
 1997/1998,33,CoventryCity,AstonVilla,1,2
 1997/1998,33,CrystalPalace,LeicesterCity,0,3
@@ -2489,7 +2490,7 @@
 1997/1998,35,SouthamptonFC,AstonVilla,1,2
 1997/1998,35,BarnsleyFC,TottenhamHotspur,1,1
 1997/1998,35,BoltonWanderers,LeedsUnited,2,3
-1997/1998,35,HamUnited,BlackburnRovers,2,1
+1997/1998,35,WestHamUnited,BlackburnRovers,2,1
 1997/1998,35,CrystalPalace,DerbyCounty,3,1
 1997/1998,35,EvertonFC,LeicesterCity,1,1
 1997/1998,35,ChelseaFC,SheffieldWednesday,1,0
@@ -2498,7 +2499,7 @@
 1997/1998,36,BarnsleyFC,ArsenalFC,0,2
 1997/1998,36,BlackburnRovers,WimbledonFC,0,0
 1997/1998,36,TottenhamHotspur,NewcastleUnited,2,0
-1997/1998,36,HamUnited,SouthamptonFC,2,4
+1997/1998,36,WestHamUnited,SouthamptonFC,2,4
 1997/1998,36,ChelseaFC,LiverpoolFC,4,1
 1997/1998,36,EvertonFC,SheffieldWednesday,1,3
 1997/1998,36,LeedsUnited,CoventryCity,3,3
@@ -2519,7 +2520,7 @@
 1997/1998,38,BlackburnRovers,NewcastleUnited,1,0
 1997/1998,38,TottenhamHotspur,SouthamptonFC,1,1
 1997/1998,38,ChelseaFC,BoltonWanderers,2,0
-1997/1998,38,HamUnited,LeicesterCity,4,3
+1997/1998,38,WestHamUnited,LeicesterCity,4,3
 1997/1998,38,CrystalPalace,SheffieldWednesday,1,0
 1997/1998,38,DerbyCounty,LiverpoolFC,1,0
 1997/1998,38,EvertonFC,CoventryCity,1,1
